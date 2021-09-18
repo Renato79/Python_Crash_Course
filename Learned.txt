@@ -1,0 +1,44 @@
+f string
+title(), upper(), lower()
+strip(), lstrip(), rstrip()
+
+
+Lists:
+Methods: .append(), .clear(), .copy(), .count(), .extend(), .index(), .insert(), .pop(), .remove(), .reverse(), .sort(), .sort(reverse=True)
+Functions: len(), sorted(), sorted(list, reverse=True), reversed()
+
+
+Loops - For Loop:
+Functions: range(), list(), min(), max(), sum()
+
+
+List comprehension:
+numbers = [value**2 for value in range(1, 11)]
+
+
+slices[1::2]
+
+
+tuples = ()
+
+
+Dictionaries
+.get(), .items(), .keys(), .values methods
+set() function
+
+
+User Input
+input(), int() functions
+Modulo Operator % eX>: 4 % 3 returns 1 (reminder, resto)
+concatenation: my_string += opp + " "
+
+
+
+
+
+
+
+Style:
+Indentation: 4 spaces or tab (Spaces are the preferred indentation method.)
+Line length: less than 80 characters (79 characters limit)
+Comment length: limited to 72 characters per line
