@@ -33,6 +33,8 @@ Modulo Operator % eX>: 4 % 3 returns 1 (reminder, resto)
 concatenation: my_string += opp + " "
 
 
+Functions:
+Arguments and Parameters. Positional Arguments. Keyword Arguments. Default Values.
 
 
 
