@@ -35,7 +35,9 @@ concatenation: my_string += opp + " "
 
 Functions:
 Arguments and Parameters. Positional Arguments. Keyword Arguments. Default Values.
-
+Return Values. Making an Argument Optional. Returning a Dictionary.
+Passing a List. Modifying a List in a Function(passing a copy[:]).
+Passing an Arbitrary Number of *Arguments.
 
 
 
