@@ -9,6 +9,10 @@ class Car:
     def model_info(self):
         print(f"\nThis car is a {self.make.title()} {self.model.title()}. Manufactured in {self.year}.")
     
+    def desc_model(self):
+        full_model = f"\n{self.make} {self.model} {self.year}, KM: {self.contakm}.\n"
+        return full_model.title()
+    
     def read_km(self):
         print(f"This {self.make.title()} {self.model.title()} has {self.contakm} km.")
     
@@ -34,3 +38,5 @@ car.update_km(200)
 car.read_km()
 
 car.model_info()
+
+print(car.desc_model())
