@@ -60,3 +60,12 @@ for i in range(len(l)):
            l[i], l[j] = l[j], l[i]
 
 print(l)
+
+
+var1 = 200
+var2 = var1
+
+var1 = 300
+
+print(f"var1: {var1}")
+print(f"var2: {var2}")
