@@ -101,7 +101,6 @@ while my_ticket != new_ticket:
 print(f"\n\nGenerated {counter} combinations before guessing the winning ticket!")
 
 
-
 """
 import os
 
