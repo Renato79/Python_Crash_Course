@@ -1,0 +1,6 @@
+Flat is better than nested.
+Sparse is better than dense.
+Errors should never pass silently.
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.

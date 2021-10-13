@@ -12,7 +12,7 @@ path = 'test_files/file_1.txt'
 # reading in the entire file
 with open(path) as file_object:
     content = file_object.read()
-    print(f"{content}\n")
+print(f"{content}\n")
 
 # looping over the file object
 with open(path) as file_object:
