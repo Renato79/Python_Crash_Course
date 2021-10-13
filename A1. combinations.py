@@ -22,7 +22,7 @@ while my_code != new_code:
     ticket = []
     """Generating the winning ticket"""
     while lim <= 5:
-        lottery = random.choice(new_tuple)
+        lottery = random.choice(new_tuple) # chooses one item
         ticket.append(lottery)
         lim += 1
         
@@ -41,5 +41,8 @@ for count in range(0, 100000):
     if str(count) != my_code:
         print("\r", count, end = "\r")
     else:
-        print("Found.")
+        print(count, end = "\r")
+        print("Found.\r")
         break
+
+print("\n")
