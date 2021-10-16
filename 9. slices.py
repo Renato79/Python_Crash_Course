@@ -3,10 +3,12 @@ players = ["renato", "ainhoa", "tili", "pintxi", "tom", "jerry", "speedy", "will
 # Printing a slice
 print(players[2:4])
 
-# If you omit the first index in a slice, Python automatically starts your slice at the beginning of the list:
+# If you omit the first index in a slice, Python automatically starts 
+# your slice at the beginning of the list:
 print(players[:3])
 
-# If you want all items from the third item through the last item, you can omit the second index:
+# If you want all items from the third item through the last item, you
+# can omit the second index:
 print(players[3:])
 
 # if we want to output the last three players
@@ -15,8 +17,9 @@ print(players[-3:])
 # if we want to output all the players except the last three
 print(players[:-3])
 
-# You can include a third value in the brackets indicating a slice. If a third value is included,
-# this tells Python how many items to skip between items in the specified range.
+# You can include a third value in the brackets indicating a slice. If
+# a third value is included, this tells Python how many items to skip 
+# between items in the specified range.
 print(players[1:8:2])
 
 

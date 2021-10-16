@@ -69,3 +69,57 @@ var1 = 300
 
 print(f"var1: {var1}")
 print(f"var2: {var2}")
+
+print("\n\n\n\n")
+
+name = "Renato is my name."
+
+print(len(name))
+
+for a in name:
+    if a == 'a':
+        continue # pass gives the same result
+    else:
+        print(a)
+print("\n\n\n")
+
+
+
+guests = ['tom', 'jerry', 'spencer', 'ami', 'patty']
+
+print()
+print(f"An invitation has been sent for {guests[0].title()}.")
+print(f"An invitation has been sent for {guests[1].title()}.")
+print(f"An invitation has been sent for {guests[2].title()}.")
+print(f"An invitation has been sent for {guests[3].title()}.")
+print(f"An invitation has been sent for {guests[4].title()}.")
+print()
+print(guests[2:4])
+
+print(name[3:6])
+
+
+
+pizzas = ('margherita', 'capricciosa', 'pepperoni', 'bianca')
+
+my_list = list(pizzas)
+my_list.append('diavola')
+
+new_tuple = tuple(my_list)
+
+print(new_tuple)
+
+print("\n\n\n")
+
+
+def plus_one(number):
+    return number + 1
+
+add_one = plus_one
+print(add_one(5))
+
+print(id(add_one))
+
+print(hex(id(add_one)))
+
+print(add_one)
