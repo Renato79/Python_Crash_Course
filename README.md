@@ -1,4 +1,4 @@
-# My excercises - "Python Crash Course, 2nd Edition"
+# My exercises - "Python Crash Course, 2nd Edition"
 
 When I completed my course in Full Stack Development, I felt the need to delve deeper into Python Fundamentals, mostly for topics that I considered essentials for a developer, but were not included at all in the course, and that didn't give me the right confidence to start an independent project or apply for any job as developer, something was missing. Topics such as testing code (Unittest library), how to operate on file objects (read, enter and modify data from files), exceptions (try, except), and mainly classes. Classes were the main reason why I looked for a book. With classes you understand the difference between a function and a method, the real approach to Object Oriented Programming, and most important, a broad understanding of how a framework is built and works.
 
