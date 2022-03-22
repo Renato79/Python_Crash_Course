@@ -1,3 +1,14 @@
+"""
+This code will generate a 5 number combination.
+
+Then it will generate 5 random numbers a time
+until it guesses the combination generated.
+
+Once guessed, it will start counting from 0 to 100000,
+so that we can compare how which of the two methods
+took more time.
+"""
+
 import os
 import random
 import curses
