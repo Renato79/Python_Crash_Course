@@ -7,5 +7,5 @@ In this repository there is the majority of my notes that I took in studying the
 I read different programming books in my life to approach different languages. Some are boring, others interesting. I would surely suggest this book as a must for anybody who would like to start learning Python. This book is engaging, explains any concept very well, leaves no doubt, covers all the fundamental topics, and after the fundamentals you will have a clear example and project explanation about how the Django Framework works. You won't find a better book.
 
 <p align="center">
-  <img width="700" height="auto" src="assets/images/gameimg.png">
+  <img width="400" height="auto" src="test_file/bookimg.jpg">
 </p>
